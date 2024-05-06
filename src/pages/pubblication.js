@@ -26,7 +26,7 @@ const project = ({ data }) => {
           src="../../static/images/pubblications_background.jpg"
           alt="Pubblication"
           objectFit="cover"
-          style={{ width: '300vh', height: "50vh", filter: "brightness(60%)" }}
+          style={{ height: "50vh", filter: "brightness(60%)" }}
         />
         {bibliography.map(({ node }, k) => {
           return <h2 key={k}>{node.frontmatter.title}</h2>;

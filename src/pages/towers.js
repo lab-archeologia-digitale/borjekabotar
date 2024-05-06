@@ -28,7 +28,7 @@ const project = ({ data }) => {
           alt="Towers"
           objectFit="cover"
           placeholder="blurred"
-          style={{ width: "300vh", height: "50vh" }}
+          style={{ height: "50vh" }}
         />
         {towers.map(({ node }, k) => {
           return <h2>{node.frontmatter.title}</h2>;

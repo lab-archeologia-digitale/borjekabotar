@@ -27,7 +27,7 @@ const news = ({data}) => {
           src="../../static/images/news_background.jpg"
           alt="News"
           objectFit="cover"
-          style={{ width: "300vh", height: "50vh" }}
+          style={{ height: "50vh" }}
         />
         {content.map(({ node }, k) => {
           return <h2 key={k}>{node.frontmatter.title}</h2>;
