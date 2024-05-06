@@ -17,7 +17,7 @@ const news = ({data}) => {
             key={k}
             title="Borj-e Kabotar | News"
             description={node.frontmatter.description}
-            canonical="https://www.borjekabotar.com/news/"
+            canonical="https://borjekabotar.com/news/"
           />
         );
       })}

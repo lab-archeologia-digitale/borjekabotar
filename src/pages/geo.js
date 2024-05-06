@@ -16,7 +16,7 @@ const project = ({ data }) => {
             key={k}
             title="Borj-e Kabotar | Geographical Setting"
             description={node.frontmatter.description}
-            canonical="https://www.borjekabotar.com/geo/"
+            canonical="https://borjekabotar.com/geo/"
           />
         );
       })}

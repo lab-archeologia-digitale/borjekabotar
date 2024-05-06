@@ -12,7 +12,7 @@ const team = () => {
         <GatsbySeo
           title="Borj-e Kabotar | About"
           description="The team of Borj-e Kabotar"
-          canonical="https://www.borjekabotar.com/about/"
+          canonical="https://borjekabotar.com/about/"
         />
 
         <div className="bg-image">

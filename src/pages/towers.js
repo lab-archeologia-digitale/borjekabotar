@@ -17,7 +17,7 @@ const project = ({ data }) => {
             key={k}
             title="Borj-e Kabotar | Towers"
             description={node.frontmatter.description}
-            canonical="https://www.borjekabotar.com/towers/"
+            canonical="https://borjekabotar.com/towers/"
           />
         );
       })}

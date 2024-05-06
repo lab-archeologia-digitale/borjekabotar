@@ -21,7 +21,7 @@ const webgis = () => {
         <GatsbySeo
           title="Borj-e Kabotar | WebGIS"
           description="The WebGIS of Borj-e Kabotar"
-          canonical="https://www.borjekabotar.com/webgis/"
+          canonical="https://borjekabotar.com/webgis/"
         />
 
         <Wrapper>

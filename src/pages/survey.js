@@ -16,7 +16,7 @@ const project = ({ data }) => {
             key={k}
             title="Borj-e Kabotar | Survey"
             description={node.frontmatter.description}
-            canonical="https://www.borjekabotar.com/survey/"
+            canonical="https://borjekabotar.com/survey/"
           />
         );
       })}
