@@ -64,7 +64,7 @@ const Footer = () => {
               </Col>
               <Col>
                 <StaticImage
-                  src="../../static/logos/logo-UniPDdBC.jpg"
+                  src="../../static/logos/padova_uni.png"
                   alt="Dipartimento dei Beni Culturali. Università degli studi di Padova"
                   width={100}
                   placeholder="blurred"
