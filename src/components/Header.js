@@ -39,7 +39,7 @@ const Header = () => {
                 </NavDropdown>
                 <Nav.Link href={withPrefix(`/webgis/`)}>WebGIS</Nav.Link>
                 <Nav.Link href={withPrefix(`/about/`)}>About</Nav.Link>
-                <Nav.Link href={withPrefix(`/pubblication/`)}>
+                <Nav.Link href={withPrefix(`/pubblications/`)}>
                   Pubblications
                 </Nav.Link>
                 <Nav.Link href={withPrefix(`/news/`)}>News</Nav.Link>

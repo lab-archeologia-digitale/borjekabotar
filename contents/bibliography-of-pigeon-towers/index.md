@@ -1,6 +1,6 @@
 ---
 title: "Bibliography"
-url: "https://borjekabotar.com/pubblication/"
+url: "https://borjekabotar.com/pubblications/"
 ---
 
 ### Some bibliographical references
