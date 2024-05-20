@@ -3,8 +3,6 @@ title: "Bibliography"
 url: "https://borjekabotar.com/pubblications/"
 ---
 
-### Bibliographical references
-
 - Amirkhani, Aryan et alii, (2009) “Isfahan Dovecotes: Remarkable edifices of Iranian Vernacular Architecture”, _METU Journal of the Faculty of Architecture_, pp. 177-186. [https://www.researchgate.net/publication/26638014_Isfahan's_dovecotes_Remarkable_edifices_of_Iranian_vernacular_architectur](https://www.researchgate.net/publication/26638014_Isfahan's_dovecotes_Remarkable_edifices_of_Iranian_vernacular_architecture)
 - Amirkhani, A., Okhovat, H. & Zamani, E. (2010) ‘Ancient Pigeon Houses: Remarkable Example of the Asian Culture Crystallized in the Architecture of Iran and Central Anatolia’, _Asian Culture and History_. 2 (2), pp. 45-57. [https://pdfs.semanticscholar.org/3dca/29974246b6f6b52585c03ec27f7137623766.pdf](https://pdfs.semanticscholar.org/3dca/29974246b6f6b52585c03ec27f7137623766.pdf)
 - Beazley, E. (1977) ‘Some Vernacular Buildings of the Iranian Plateau’, Iran. 15, pp. 89-102. [https://www.jstor.org/stable/4299579](https://www.jstor.org/stable/4299579)

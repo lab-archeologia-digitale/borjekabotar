@@ -25,10 +25,10 @@ const team = () => {
           <h2>Team</h2>
         </div>
 
-        <Container>
-          <Row className="my-5">
+        <Container className="py-5">
+          <Row>
             <Col>
-              <Card>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Danilo Rosati</Card.Title>
                   <Card.Text className="position">
@@ -38,7 +38,7 @@ const team = () => {
               </Card>
             </Col>
             <Col>
-              <Card>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Fariba Saiedi Anaraki</Card.Title>
                   <Card.Text className="position">
@@ -48,33 +48,34 @@ const team = () => {
               </Card>
             </Col>
           </Row>
+
           <Row className="my-5">
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Francesca Adesso</Card.Title>
                   <Card.Text className="position">3D Modeler</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Domizia D'Erasmo</Card.Title>
                   <Card.Text className="position">Web-GIS Developer</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Edoardo Ferrari</Card.Title>
                   <Card.Text className="position">Architect</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Noemi Giovino</Card.Title>
                   <Card.Text className="position">Web Developer</Card.Text>
@@ -83,32 +84,32 @@ const team = () => {
             </Col>
           </Row>
           <Row className="my-5">
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Amir Jamshidi</Card.Title>
                   <Card.Text className="position">Translator</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Gaetano Pezzella</Card.Title>
                   <Card.Text className="position">Photographer</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Giuseppe Salemmi</Card.Title>
                   <Card.Text className="position">3D Survey</Card.Text>
                 </Card.Body>
               </Card>
             </Col>
-            <Col>
-              <Card>
+            <Col xs={6} sm={3}>
+              <Card className="m-2">
                 <Card.Body>
                   <Card.Title>Ilaria Elisea Scerrato</Card.Title>
                   <Card.Text className="position">Social Anthropologist</Card.Text>
