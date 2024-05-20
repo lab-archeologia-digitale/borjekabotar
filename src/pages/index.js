@@ -4,7 +4,8 @@ import { Link } from 'gatsby'
 import { Button, Carousel } from 'react-bootstrap'
 
 import Layout from "../templates/Layout"
-import Image2 from "../../static/images/sfondo_bk.jpg";
+// import Image2 from "../../static/images/sfondo_bk.jpg";
+import Image2 from "../../static/images/survey_pigeon_towers.jpg";
 
 
 const index = () => {
